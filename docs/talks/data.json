@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-28",
  "talks": [
   {
    "date": "2026-11-29",
@@ -49,7 +49,7 @@
    "date": "2026-12-01",
    "sort": "1",
    "start": "8:30 AM",
-   "end": "10:30 AM",
+   "end": "10:45 AM",
    "format": "livestream",
    "host": "AWS",
    "top": true,
@@ -59,7 +59,7 @@
    "title": "re:Invent CEO Keynote with Matt Garman",
    "short": "re:Invent CEO Keynote",
    "url": "https://aws.amazon.com/events/reinvent/livestream/",
-   "desc": "Amazon's biggest AI announcements of the year, with guests Sam Altman of OpenAI and Tony Xu of DoorDash.",
+   "desc": "Amazon's biggest AI announcements of the year, with guests Sam Altman of OpenAI, Tony Xu of DoorDash and Allianz's Barbara Karuth-Zelle.",
    "why": "The year's main AWS AI launches in one sitting, with the heads of AWS and OpenAI on the same stage. Watch it if you make AI platform or budget decisions."
   },
   {
@@ -91,7 +91,8 @@
    "title": "Salesforce World Tour New York",
    "short": "Salesforce World Tour NYC",
    "url": "https://www.salesforce.com/plus/experience/world_tour_nyc_winter_2026",
-   "desc": "The main keynote streams free on Salesforce+, with news on Agentforce, Slack and Salesforce with Claude. Free registration."
+   "desc": "The main keynote streams free on Salesforce+, with news on Agentforce and Slack. Free registration.",
+   "end": "8:00 AM"
   },
   {
    "date": "2026-12-03",
@@ -110,18 +111,18 @@
   },
   {
    "date": "2026-12-03",
-   "sort": "2",
-   "start": "10:15 AM",
-   "end": "11:15 AM",
-   "format": "livestream",
-   "host": "OpenAI Academy",
+   "sort": "3",
+   "start": "11:20 AM",
+   "end": "11:50 AM",
+   "format": "webinar",
+   "host": "Anthropic",
    "tags": [
-    "Education"
+    "Leadership"
    ],
-   "title": "ChatGPT for Teachers: Leading District-Wide Adoption",
-   "short": "ChatGPT for Teachers",
-   "url": "https://academy.openai.com/public/clubs/k-12-administrators-and-district-leaders-gcxd3/events/chatgpt-for-teachers-leading-district-wide-adoption-xxfhix3z96",
-   "desc": "For school and district leaders planning how teachers will use ChatGPT across a whole district."
+   "title": "Engineers, agents, and Black Friday: what Shopify learned at peak",
+   "short": "What Shopify learned at peak",
+   "url": "https://claude.com/resources/webinars/engineers-agents-and-black-friday-what-shopify-learned-at-peak",
+   "desc": "Shopify's Head of Engineering, Farhan Thawar, on what Black Friday showed about its systems, people and AI agents."
   },
   {
    "date": "2026-12-08",
@@ -139,19 +140,19 @@
    "desc": "A walkthrough of Microsoft's Ignite announcements on AI, Copilot, Azure and security, and what comes next."
   },
   {
-   "date": "2026-12-08",
+   "date": "2026-12-09",
    "sort": "1",
-   "start": "9:00 AM",
-   "end": "10:00 AM",
+   "start": "10:00 AM",
+   "end": "11:00 AM",
    "format": "webinar",
    "host": "Anthropic",
    "tags": [
-    "Government"
+    "Security"
    ],
-   "title": "Best Practices for Government: IT Modernization with Claude",
-   "short": "Government IT Modernization",
-   "url": "https://claude.com/resources/webinars/best-practices-for-government-it-modernization-with-claude",
-   "desc": "A government technology leader on modernizing a legacy system with Claude, and how to do it securely."
+   "title": "How Anthropic secures its agents",
+   "short": "How Anthropic secures its agents",
+   "url": "https://claude.com/resources/webinars/how-anthropic-secures-its-agents",
+   "desc": "The three layers Anthropic uses to keep its own AI agents safe, and steps you can apply to yours."
   },
   {
    "date": "2026-12-10",
